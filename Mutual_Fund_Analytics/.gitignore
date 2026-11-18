@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Confidential datasets
+data/raw/*.csv
+data/processed/*.csv
+
+.ipynb_checkpoints/
