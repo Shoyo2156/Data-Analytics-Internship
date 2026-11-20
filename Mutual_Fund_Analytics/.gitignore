@@ -8,3 +8,9 @@ data/raw/*.csv
 data/processed/*.csv
 
 .ipynb_checkpoints/
+
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+*-journal
